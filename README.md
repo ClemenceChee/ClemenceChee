@@ -1,6 +1,6 @@
 # Hi, I'm Clemence Chee 👋
 
-**VP Data & Analytics @ Babbel** | **Ex-HelloFresh (Sr. Director Data)** | **Founder @ CWC Ventures**
+**Driving AI Development with solid understanding of Data Foundations** | **VP Data & Analytics @ Babbel** | **Ex-HelloFresh (Sr. Director Data)** | **Founder @ CWC Ventures**
 
 Berlin 🇩🇪 | [clemence.io](https://clemence.io)
 
