@@ -20,8 +20,8 @@ Berlin 🇩🇪 | [clemence.io](https://clemence.io)
 - **Babbel** (May 2023 – Present)  
   VP Data & Analytics — AI-powered analytics, data governance, data-driven decision frameworks
 
-- **HelloFresh** (Post-IPO)  
-  Global Senior Director Data — International data operations, BI scaling across markets
+- **HelloFresh** (March 2015 – May 2023)  
+  Global Senior Director Data — Global data operations, scaling different data maturity stages across markets
 
 - **CWC Ventures GmbH** (2020 – Present)  
   Founder & Managing Director — Angel investing & venture development
